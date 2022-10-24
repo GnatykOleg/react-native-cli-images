@@ -1,11 +1,11 @@
 # A react-Native-based gallery that displays photos from Unsplash.
 
-## The application contains two screens.:
+### The application contains two screens:
 
-- List
+### List
   - mini image with title and author
   - when the user clicks on the image, the photo screen opens
-- Photo
+### Photo
   - displays one photo in its entirety.
 
 ## Screenshots
